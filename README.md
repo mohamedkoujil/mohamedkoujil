@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [wallashop](https://github.com/mohamedkoujil/wallashop.git)
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue**, **React**
 
 - 📫 How to reach me [**mohamedkoujil75@gmail.com**](mailto:mohamedkoujil75@gmail.com)
 
