@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedkoujil" alt="mohamedkoujil" /></a> </p>
 -->
 
-- 🔭 I’m currently working on [wallashop](https://github.com/mohamedkoujil/wallashop.git)
+- 🔭 I’m currently working on [qrApp]([https://github.com/mohamedkoujil/wallashop.git](https://github.com/mohamedkoujil/qrApp))
 
 - 🌱 I’m currently learning **Vue**, **React**
 
